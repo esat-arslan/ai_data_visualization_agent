@@ -3,7 +3,8 @@
 ## Overview
 
 The **AI Data Visualization Agent** is a Streamlit web application designed to assist users in analyzing their datasets using AI. By uploading a CSV file, users can query the AI for insights, generate Python code for data analysis, and visualize the results interactively. This application leverages Together AI and E2B APIs to provide a seamless experience for generating data visualizations and running Python code.
-
+Demo:
+https://youtu.be/ka9e3sDBVBs?si=6KvKeJws-JdTLXks
 ---
 
 ## Features
